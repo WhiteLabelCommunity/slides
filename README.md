@@ -15,7 +15,7 @@ In here you can find all the slides from the meetup
 
 ***
 
-### 04 Maggio 2019 - () => &ltWhiteLabel /&gt
+### 04 Maggio 2019 - () => &lt;WhiteLabel /&gt;
 
 [🔗 Overview su React](https://deploy-preview-8--reverent-yonath-5a6f51.netlify.com/)  
 [🔗 Perchè fare il web developer: miti, dati e storie di coraggio](https://docs.google.com/presentation/d/1QRFWj2I7E4tB0ok1l2y0TxjchYnaeINszCrI4flmC4w/mobilepresent?slide=id.p)  
